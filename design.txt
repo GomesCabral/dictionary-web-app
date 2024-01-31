@@ -1,0 +1,13 @@
+Title: Dictionary Web App
+Description: A web app that lets users type a term in a text box and returns the
+definition of that term as soon as the user has finished typing.
+The app consist of a website with a navigation menu, a home, Dictionary and about page
+
+Objects:
+    Definition:
+        term
+        get()
+    Navbar
+    HomePage
+    DictionaryPage
+    AboutPage
